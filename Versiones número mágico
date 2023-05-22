@@ -9,15 +9,16 @@ printf ("correcto ");
 }else{
 printf("incorrecto");
 }
-
-
-
-
-
-
-
-
-
-
+if(n2<n1)
+{
+printf(el número a adivinar es mayor);
+}
+else
+{
+if(n2>n1)
+{
+printf("el número a adivinar es menor");
+}
+}
 
 
