@@ -1,0 +1,23 @@
+include<stdio.h>
+main()
+int n1,n2;
+n1=87;
+printf("ingresa un numero")
+scanf("%d",&n2);
+if(n2==n1){
+printf ("correcto ");
+}else{
+printf("incorrecto");
+}
+
+
+
+
+
+
+
+
+
+
+
+
